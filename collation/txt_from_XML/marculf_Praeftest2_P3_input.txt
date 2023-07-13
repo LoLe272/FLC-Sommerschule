@@ -1,8 +1,0 @@
-TextprobeCTE: Created by an unregistered copy of the Classical Text Editor.*!*!
-******
-
-******
-gte: ; lte: ; when:
-******
-INCIPIT PREFA[CIO] LIBRI HUIUS D[OMI]NO S[AN]C[T]O meritis beatissi- mo et apostolico se[m]- per honore suscipi- endo omnique p[rae]co- nio laude celebrando domno hac reueren- tissimo papa aegli- dulfo marculfus ultimus hac uilissi- mus omnium mona- chorum utinam s[an]c[t]ae pater iussionem uestra[m] tam efficaciter quam spon- taniae obte[m]perare ua- luissem, quia ia[m] sup[er] uires meae possibilita- tem conatus sum iniunctu[m] [BNF Ms lat 2123, fol.105vb] a uobis subire nec otium cum fere. LXX aut ampli- us annos expleam uiuen- do et nec tremula adscri- bendum manus est apta nec aduidendum mihi sufficiunt oculi caligan- ter nec ad excogitandu[m] sensus sufficit ebitudo quia iuxta datum uobis cuiusdam prudentissimi uiri inpueris crescit sensus in iuuenibus uiget in senibus minaretur p[ro]pte- rea eleganter facere non potui ut uolui. fe- ci tamen ordinatus ut potui non solum ea que iuristi uerum et quam mul- ta alia in hanc scedola tam cartas pagensis qua[m] preceptiones regales iux- ta simplicitatem et rusti- citatis meae nature in- timare curaui, scio enim multas fouere pruden- tissimos uiros eloquen- tissimus hac rectores ad dictandum peritos qui ista si legerent promini ma uelud deleramenta.
-******
