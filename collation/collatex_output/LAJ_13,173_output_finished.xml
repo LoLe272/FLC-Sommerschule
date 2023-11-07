@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="format.css"?>
+<!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI P5//EN" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>SOME AUTHOR</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>SOME DATE</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p rend="text-indent:0mm;">unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p rend="text-indent:0mm;">Automatic Export from Collatex</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>SOME DATE</date>
+          <name>SOME NAME</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>[171] Eodem tempore tres haereses iudeorum fuerunt, quae de rebus humanis diuersa credebant, quarum una Pharisaea dicebatur, altera Sadducea, tertia uero Essenorum. [172] Igitur Pharisei dicebant fato non omnia sed aliqua gubernari, altera uero quae accidunt per se consistere. Genus autem Essenorum omnia sub fato esse confirmat, et nihil esse quod hominibus non illius decreto proueniat. [173] Sadducei uero fatum quidem nihil esse existimant neque per eum humana concludi, sed omnia nostrae supponunt potestati, bonorumque nos ipsos auctores fatentur, et peiora per nostram eligi dementiam. Sed de his quidem certius in secundo libro historiae iudaicae demonstrauimus. [174] Demetrii autem... </p></div></body></text></TEI>
