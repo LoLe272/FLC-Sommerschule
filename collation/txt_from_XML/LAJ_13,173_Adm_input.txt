@@ -1,0 +1,8 @@
+LAJ 13,173 (Adm)*!*!
+******
+
+******
+gte: ; lte: ; when:
+******
+[171] Eodem tempore tres hereses iudeorum fuerant, quae de rebus humanis diuersa credebant, quarum una Pharisea dicebatur, altera Saducea, tercia uero Essenorum. [172] Igitur Pharisei dicebant fata non omnia sed aliqua gubernare, altera uero per se consistere. Genus autem Essenorum omnia sub fato esse confirmat, et nihil esse quod hominibus non illius decreto proueniat. [173] Saducei fatum quidem nihil esse estimant neque per eum humana concludi, sed omnia nostrae supponunt potestati, bonorumque nos ipsos auctores fatentur, et peiora per nostram eligi dementiam. Sed de his quidem certius in secundo historiae iudaicae libro demonstrauimus. [174] Demetrii autem ...
+******
